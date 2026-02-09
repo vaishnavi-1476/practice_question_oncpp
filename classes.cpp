@@ -2,7 +2,7 @@
 #include<string>
 #include<vector>
 using namespace std;
-class player{
+struct player{
     string name;
     int health;
     int xp;
